@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit27-2
 - 👀 I’m interested in Devops, web development
 - 🌱 I’m currently learning Python,web development and automation
-- 💞️ I’m looking to collaborate on python enthusiast
+- 💞️ I’m looking to collaborate with python enthusiast
 - 📫 How to reach me - instagram - @vampire_rohit
 
 <!---
