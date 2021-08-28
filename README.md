@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rohit27-2
-- 👀 I’m interested in Devops, web development
-- 🌱 I’m currently learning Python,web development and automation
+- 👋 Hi, I’m @Rohit.G
+- 👀 I’m interested in Devops and web development.
+- 🌱 I’m currently learning Python, C++, web development and automation
 - 💞️ I’m looking to collaborate with python enthusiast
-- 📫 How to reach me - instagram - @vampire_rohit
+- 📫 How to reach me - Instagram - @vampire_rohit
 
 <!---
 Rohit27-2/Rohit27-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
