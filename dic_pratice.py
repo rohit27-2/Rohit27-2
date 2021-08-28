@@ -1,7 +1,5 @@
-# Import Json module
 import json
 
-# extracting data from Data.json 
 data = json.load(open("Python_Projects/data.json"))
 
 def translate(word):
