@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit.G
+- 👋 Hi, I’m @Rohith.G
 - 👀 I’m interested in Devops and web development.
 - 🌱 I’m currently learning Python, C++, web development and automation
 - 💞️ I’m looking to collaborate with python enthusiast
